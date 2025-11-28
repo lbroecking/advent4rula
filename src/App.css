@@ -45,6 +45,7 @@ h1 {
   grid-template-columns: repeat(4, 1fr);
   gap: 12px;
   max-width: 600px;
+  -webkit-text-fill-color: black !important;
   margin: 0 auto;
 }
 
@@ -97,6 +98,7 @@ h1 {
   .door.solved{
   background-color: #bd1f1f;
   color:#aaaaaa;
+  -webkit-text-fill-color: #aaaaaa !important;
   font-weight: bold;
 }
   
