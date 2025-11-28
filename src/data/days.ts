@@ -11,7 +11,7 @@ export const days = [
         day: 2,
         title: "❄️ Day 2 – The First Touch",
         story: stories.day2,
-        solution: "eukalyptus"
+        solution: "koala"
     },
     {
         day: 3,
@@ -41,13 +41,13 @@ export const days = [
         day: 7,
         title: "❄️ Day 7 – The Hidden Path",
         story: stories.day7,
-        solution: "koala"
+        solution: "nothing"
     },
     {
         day: 8,
         title: "❄️ Day 8 – The Snowstorm Fun",
         story: stories.day8,
-        solution: "near"
+        solution: "funny"
     },
     {
         day: 9,
@@ -59,7 +59,7 @@ export const days = [
         day: 10,
         title: "❄️ Day 10 – The Winter Stroll",
         story: stories.day10,
-        solution: "star"
+        solution: "attention"
     },
     {
         day: 11,
@@ -107,7 +107,7 @@ export const days = [
         day: 18,
         title: "❄️ Day 18 – The Shared Laughter",
         story: stories.day18,
-        solution: "light"
+        solution: "teasing"
     },
     {
         day: 19,
@@ -125,25 +125,24 @@ export const days = [
         day: 21,
         title: "❄️ Day 21 – The Wooden Box",
         story: stories.day21,
-        solution: "quiet"
+        solution: "secret"
     },
     {
         day: 22,
         title: "❄️ Day 22 – The Cozy Evening",
         story: stories.day22,
-        solution: "sign"
+        solution: "persempre"
     },
     {
         day: 23,
         title: "❄️ Day 23 – The Frozen Lake",
         story: stories.day23,
-        solution: "seeyoutomorrow"
+        solution: "almost"
     },
     {
         day: 24,
-        title: "❄️ Day 24 – The Christmas Morning",
+        title: "❄️ Day 24 – All I Want For Christmas Is You",
         story: stories.day24,
-        riddle: "-> All I Want For Christmas Is You",
-        solution: "xmas"
+        solution: "christmas"
     },
 ]

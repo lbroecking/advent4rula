@@ -155,7 +155,7 @@ I shrug casually. Totally not casual. “Maybe I like thinking about you when yo
 Your fur fluffs up—your version of blushing hard. Then you slip something from behind your back: a tiny note for me. You place it in my tentacle, and your paw lingers longer than necessary.
 
 I unfold it. It reads simply:
-“I look forward to tomorrow.”
+“I look forward to seeing you tomorrow.”
 
 I look up. You bite your lip, smiling. The tension between us tightens sweetly. I pull you into a short kiss—just lips brushing, soft, warm, promising.
 
