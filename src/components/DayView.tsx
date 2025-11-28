@@ -16,8 +16,9 @@ export default function DayView({day, onBack, markSolved}: DayViewProps) {
 
     return (
         <div className="dayView">
-            <button onClick={onBack} className="back">&#8592; BACK</button>
+             <button onClick={onBack} className="back">&#8592;</button>
 
+            <h1>🐨 & 🐙</h1>
             <h2>{data.title}</h2>
             
 
@@ -33,12 +34,12 @@ export default function DayView({day, onBack, markSolved}: DayViewProps) {
                 </>
             )}
             {unlocked && (
-                <div className = "unlocked">
+                <div className="unlocked">
                     <h3>{data.story}</h3>
-                    
-                    <p>See you tomorrow</p>
+                     <p>{day === 24 ? "Merry Christmas Agapi Mou!" : "See you tomorrow"}</p> 
                 </div>
-            )}
+                )}
+
         </div>
     )
 }

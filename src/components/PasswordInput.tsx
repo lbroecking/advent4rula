@@ -24,6 +24,7 @@ export default function PasswordInput({solution, onCorrect} : PasswordInputProps
             placeholder="password please"
             onChange={(e) => setInput(e.target.value)}
             />
+            <br></br>
             <button onClick={check}>Check</button>
         </div>
     );

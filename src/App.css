@@ -30,7 +30,6 @@
 
 body {
   margin:0;
-  padding:20px;
   font-family: 'Georgia', serif;
   background: #03571d;
   color: #aaaaaa;
@@ -67,7 +66,8 @@ h1 {
 }
 
 .back {
-  margin-bottom: 15px;
+  margin-top: 15px;
+  background-color: #aaaaaa
 }
 
 .pwContainer input {
@@ -78,14 +78,14 @@ h1 {
 
 .pwContainer button {
   padding: 8px, 12px;
-  margin-left:10px;
+  margin-top: 15px;
   font-size: 16px;
   background-color: #aaaaaa;
 }
 
 @media (max-width: 600px) {
   .grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 8px;
   }
 
@@ -106,4 +106,10 @@ h1 {
   background-color: #bd1f1f;
   color:#aaaaaa;
   font-weight: bold;
+}
+
+.unlocked h3{
+  white-space: pre-line;
+  font-size: 1.1rem;
+  line-height: 1.6;
 }

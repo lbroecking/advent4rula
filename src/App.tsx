@@ -26,7 +26,7 @@ return (
     <div className="app">
       {!currentDay ? (
         <>
-          <h1>Advent for Rula 2025</h1>
+          <h1>Advent-ure 2025</h1>
           <DoorGrid onSelectDay={setCurrentDay} solvedDays={solvedDays}/>
         </>
       ) : (
