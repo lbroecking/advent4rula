@@ -1,4 +1,4 @@
-import {useState} from "react";
+import {useEffect, useState} from "react";
 import PasswordInput from "./PasswordInput";
 import {days} from "../data/days";
 
@@ -14,13 +14,19 @@ export default function DayView({day, onBack, markSolved}: DayViewProps) {
 
     if (!data) return <p>ERROR: Day not Found</p>
 
+    useEffect(() => {
+        const solved = JSON.parse(localStorage.getItem("solvedDays") || "[]");
+        if (solved.includes(day)) {
+            setUnlocked(true);
+        }
+    }, [day]);
+    
     return (
         <div className="dayView">
              <button onClick={onBack} className="back">&#8592;</button>
 
             <h1>🐨 & 🐙</h1>
             <h2>{data.title}</h2>
-            
 
             {!unlocked && (
                 <>
