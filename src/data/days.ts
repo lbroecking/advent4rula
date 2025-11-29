@@ -35,31 +35,31 @@ export const days = [
         day: 6,
         title: "❄️ Day 6 – The Breakfast",
         story: stories.day6,
-        solution: "together"
+        solution: "amore"
     },
     {
         day: 7,
         title: "❄️ Day 7 – The Hidden Path",
         story: stories.day7,
-        solution: "nothing"
+        solution: "amazing"
     },
     {
         day: 8,
         title: "❄️ Day 8 – The Snowstorm Fun",
         story: stories.day8,
-        solution: "funny"
+        solution: "laugh"
     },
     {
         day: 9,
         title: "❄️ Day 9 – The Tiny Messages",
         story: stories.day9,
-        solution: "tomorrow"
+        solution: "eyes"
     },
     {
         day: 10,
         title: "❄️ Day 10 – The Winter Stroll",
         story: stories.day10,
-        solution: "attention"
+        solution: "choosing"
     },
     {
         day: 11,
@@ -71,7 +71,7 @@ export const days = [
         day: 12,
         title: "❄️ Day 12 – The Cozy Moment",
         story: stories.day12,
-        solution: "cozy"
+        solution: "sun"
     },
     {
         day: 13,
@@ -83,7 +83,7 @@ export const days = [
         day: 14,
         title: "❄️ Day 14 – The Warm Bath",
         story: stories.day14,
-        solution: "wishes"
+        solution: "bath"
     },
     {
         day: 15,
@@ -95,7 +95,7 @@ export const days = [
         day: 16,
         title: "❄️ Day 16 – The Snowstorm Rescue",
         story: stories.day16,
-        solution: "thought"
+        solution: "mind"
     },
     {
         day: 17,
@@ -107,7 +107,7 @@ export const days = [
         day: 18,
         title: "❄️ Day 18 – The Shared Laughter",
         story: stories.day18,
-        solution: "teasing"
+        solution: "tivoglio"
     },
     {
         day: 19,
@@ -125,7 +125,7 @@ export const days = [
         day: 21,
         title: "❄️ Day 21 – The Wooden Box",
         story: stories.day21,
-        solution: "secret"
+        solution: "orsacchiottoviaggiatore"
     },
     {
         day: 22,
@@ -137,7 +137,7 @@ export const days = [
         day: 23,
         title: "❄️ Day 23 – The Frozen Lake",
         story: stories.day23,
-        solution: "almost"
+        solution: "bacini"
     },
     {
         day: 24,
